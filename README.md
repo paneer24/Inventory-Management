@@ -1,1 +1,2 @@
 # Inventory-Management
+The main aim of the project is to store the inventory of a store to keep track of the stores details including the price, quantity,product id,product name. It helps us to automate the process of storing and choosing the products. We are able to collect real time information of people who buy products. It helps to reduce the manual process of writing notes to keep track of things it automatically upadtes and shows the quantity that is present and remaining. 
